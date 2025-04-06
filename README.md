@@ -49,7 +49,7 @@ You can modify the following aspects in the `style.css` file:
 - Clock font size and spacing  
 - Animation durations and effects  
 - Shadow intensities
-- 
+
 ## Browser Support :
 
 The project supports all modern browsers including:
